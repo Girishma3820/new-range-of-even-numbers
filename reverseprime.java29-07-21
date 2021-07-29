@@ -1,5 +1,5 @@
 import java.util.*;
-public class twinprimes
+class main
 {
 public static void main(String args[])
 {
